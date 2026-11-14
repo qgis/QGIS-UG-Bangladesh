@@ -32,15 +32,62 @@ Our mission is to:
 
 ### Founding Members
 
-- Akib Javed PhD [LinkedIn](https://www.linkedin.com/in/akibjaved/), [Email](malito:akibjaved@outlook.com) 
-- Shuvo Kumar Chowdhury [LinkedIn](https://www.linkedin.com/in/shuvokumarc/), [Email](malito:shrishuvokumarchowdhury@gmail.com)
-- Md Masud Parves Rana PhD [LinkedIn](https://www.linkedin.com/in/md-masud-parves-rana-72129a76/), [Email](malito:mprgesru@gmail.com)
-- K H Razimul Karim [LinkedIn](https://www.linkedin.com/in/razimul/), [Email](malito:razimulseye@gmail.com)
-- MD Moinul Mobin [LinkedIn](https://www.linkedin.com/in/mdmoinulmobin/), [Email](malito:mdmoinulmobin@gmail.com)
-- Jannatul Ferdos [LinkedIn](https://www.linkedin.com/in/jannatul-ferdos/), [Email](malito:ferdoscu1998@gmail.com)
-- Abu Syed Al-Imam [LinkedIn](https://www.linkedin.com/in/abu-syed-al-imam-261463302/), [Email](malito:syed29bsmrmu@gmail.com)
-- Ronit Kumar Roy [LinkedIn](https://www.linkedin.com/in/ronit-roy-b62511333/), [Email](malito:ronitthewritter725@gmail.com)
-- Shafayat Ur Rahaman [LinkedIn](https://www.linkedin.com/in/shafayat-ur-rahaman-shajid/), [Email](malito:shafayatrahaman@gmail.com)
+{{< columns-start >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/akib-javed.jpg" alt="Akib Javed PhD" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Akib Javed PhD</strong><br><a href="https://www.linkedin.com/in/akibjaved/">LinkedIn</a>, <a href="mailto:akibjaved@outlook.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/shuvo-kumar-chowdhury.jpg" alt="Shuvo Kumar Chowdhury" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Shuvo Kumar Chowdhury</strong><br><a href="https://www.linkedin.com/in/shuvokumarc/">LinkedIn</a>, <a href="mailto:shrishuvokumarchowdhury@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/md-masud-parves-rana.jpg" alt="Md Masud Parves Rana PhD" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Md Masud Parves Rana PhD</strong><br><a href="https://www.linkedin.com/in/md-masud-parves-rana-72129a76/">LinkedIn</a>, <a href="mailto:mprgesru@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/kh-razimul-karim.jpg" alt="K H Razimul Karim" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>K H Razimul Karim</strong><br><a href="https://www.linkedin.com/in/razimul/">LinkedIn</a>, <a href="mailto:razimulseye@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/md-moinul-mobin.jpg" alt="MD Moinul Mobin" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>MD Moinul Mobin</strong><br><a href="https://www.linkedin.com/in/mdmoinulmobin/">LinkedIn</a>, <a href="mailto:mdmoinulmobin@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/jannatul-ferdos.jpg" alt="Jannatul Ferdos" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Jannatul Ferdos</strong><br><a href="https://www.linkedin.com/in/jannatul-ferdos/">LinkedIn</a>, <a href="mailto:ferdoscu1998@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/abu-syed-al-imam.jpg" alt="Abu Syed Al-Imam" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Abu Syed Al-Imam</strong><br><a href="https://www.linkedin.com/in/abu-syed-al-imam-261463302/">LinkedIn</a>, <a href="mailto:syed29bsmrmu@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/ronit-kumar-roy.jpg" alt="Ronit Kumar Roy" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Ronit Kumar Roy</strong><br><a href="https://www.linkedin.com/in/ronit-roy-b62511333/">LinkedIn</a>, <a href="mailto:ronitthewritter725@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< column-start class="is-one-third has-text-centered" >}}
+<div style="width:100%">
+<img src="/img/members/shafayat-ur-rahaman.jpg" alt="Shafayat Ur Rahaman" style="width:100%;max-width:200px;aspect-ratio:1/1;object-fit:cover">
+<p><strong>Shafayat Ur Rahaman</strong><br><a href="https://www.linkedin.com/in/shafayat-ur-rahaman-shajid/">LinkedIn</a>, <a href="mailto:shafayatrahaman@gmail.com">E-Mail</a></p>
+</div>
+{{< column-end >}}
+{{< columns-end >}}
 
 ### Active Members
 
