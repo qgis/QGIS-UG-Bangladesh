@@ -64,7 +64,7 @@ To ensure a welcoming and productive environment for all members, we ask everyon
 
 If you experience or witness behavior that violates these guidelines:
 1. Contact any board member or organizer
-2. Send an email to [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com)
+2. Send an email to [qgisbangladesh@gmail.com](mailto:qgisbangladesh@gmail.com)
 3. All reports will be handled confidentially
 
 ### Consequences
