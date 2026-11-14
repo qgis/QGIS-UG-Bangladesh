@@ -30,6 +30,18 @@ Our mission is to:
 - **Regional/Local Leads:** [Names by region]
 - **Volunteers:** [Roles: outreach, events, training, comms]
 
+### Founding Members
+
+- Akib Javed
+- Shuvo Kumar Chowdhury
+- Md Masud Parves Rana PhD
+- K H Razimul Karim
+- MD Moinul Mobin
+- Jannatul Ferdos
+- Abu Syed Al-Imam
+- Ronit Kumar Roy
+- Shafayat Ur Rahaman
+
 ### Active Members
 
 We have members from diverse backgrounds including:
@@ -50,9 +62,9 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 
 ## Contact Us
 
-- **Email:** [your-email@example.com]
+- **Email:** [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com)
 - **Mailing List:** [link to mailing list]
-- **Social Media:** [links to social media]
+- **Social Media:** [Facebook](https://www.facebook.com/qgisbangladesh/), [Linkedin](https://www.linkedin.com/company/qgisbangladesh)
 - **Chat:** [link to chat platform if available]
 
 ## Affiliations
