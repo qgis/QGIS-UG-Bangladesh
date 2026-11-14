@@ -105,6 +105,6 @@ These rules may be updated from time to time. Members will be notified of signif
 
 ## Questions?
 
-If you have questions about these rules, contact us at [contact@example.com]
+If you have questions about these rules, contact us at [qgisbangladesh@gmail.com](mailto:qgisbangladesh@gmail.com)
 
 {{< content-end >}}
