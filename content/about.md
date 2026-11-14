@@ -32,15 +32,15 @@ Our mission is to:
 
 ### Founding Members
 
-- Akib Javed PhD
-- Shuvo Kumar Chowdhury
-- Md Masud Parves Rana PhD
-- K H Razimul Karim
-- MD Moinul Mobin
-- Jannatul Ferdos
-- Abu Syed Al-Imam
-- Ronit Kumar Roy
-- Shafayat Ur Rahaman
+- Akib Javed PhD [LinkedIn](https://www.linkedin.com/in/akibjaved/), [Email](malito:akibjaved@outlook.com) 
+- Shuvo Kumar Chowdhury [LinkedIn](https://www.linkedin.com/in/shuvokumarc/), [Email](malito:shrishuvokumarchowdhury@gmail.com)
+- Md Masud Parves Rana PhD [LinkedIn](https://www.linkedin.com/in/md-masud-parves-rana-72129a76/), [Email](malito:mprgesru@gmail.com)
+- K H Razimul Karim [LinkedIn](https://www.linkedin.com/in/razimul/), [Email](malito:razimulseye@gmail.com)
+- MD Moinul Mobin [LinkedIn](https://www.linkedin.com/in/mdmoinulmobin/), [Email](malito:mdmoinulmobin@gmail.com)
+- Jannatul Ferdos [LinkedIn](https://www.linkedin.com/in/jannatul-ferdos/), [Email](malito:ferdoscu1998@gmail.com)
+- Abu Syed Al-Imam [LinkedIn](https://www.linkedin.com/in/abu-syed-al-imam-261463302/), [Email](malito:syed29bsmrmu@gmail.com)
+- Ronit Kumar Roy [LinkedIn](https://www.linkedin.com/in/ronit-roy-b62511333/), [Email](malito:ronitthewritter725@gmail.com)
+- Shafayat Ur Rahaman [LinkedIn](https://www.linkedin.com/in/shafayat-ur-rahaman-shajid/), [Email](malito:shafayatrahaman@gmail.com)
 
 ### Active Members
 
