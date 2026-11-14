@@ -30,7 +30,7 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Contribute a Tutorial
 
-Send tutorials or links to [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com).
+Send tutorials or links to [qgisbangladesh@gmail.com](mailto:qgisbangladesh@gmail.com).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
