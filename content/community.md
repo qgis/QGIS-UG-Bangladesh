@@ -63,7 +63,7 @@ Discover companies, contributors, and products supporting QGIS.
 
 ### How to Join
 
-- Email: [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com)
+- Email: [qgisbangladesh@gmail.com](mailto:qgisbangladesh@gmail.com)
 - Join our chat: [link]
 - Follow updates: [Facebook](https://www.facebook.com/qgisbangladesh/), [Linkedin](https://www.linkedin.com/company/qgisbangladesh)
 
