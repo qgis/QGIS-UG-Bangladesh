@@ -83,7 +83,7 @@ Check back regularly for upcoming workshop announcements.
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Get Involved
 
-Want to present at our next meetup or organize an event? Contact us at [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com)
+Want to present at our next meetup or organize an event? Contact us at [qgisbangladesh@gmail.com](mailto:qgisbangladesh@gmail.com)
 
 
 {{< rich-content-end >}}
