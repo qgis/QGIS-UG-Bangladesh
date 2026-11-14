@@ -32,7 +32,7 @@ Our mission is to:
 
 ### Founding Members
 
-- Akib Javed
+- Akib Javed PhD
 - Shuvo Kumar Chowdhury
 - Md Masud Parves Rana PhD
 - K H Razimul Karim
