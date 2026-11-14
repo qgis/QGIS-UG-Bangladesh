@@ -64,7 +64,7 @@ To ensure a welcoming and productive environment for all members, we ask everyon
 
 If you experience or witness behavior that violates these guidelines:
 1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
+2. Send an email to [qgisbangladesh@gmail.com]
 3. All reports will be handled confidentially
 
 ### Consequences
@@ -79,8 +79,15 @@ Violations may result in:
 ### Joining
 
 - Membership is open to anyone interested in QGIS
-- No fees required (or specify if applicable)
-- Register via [registration link/process]
+
+The following four membership categories are available (membership fee per year):
+
+- Category A: Larger collective members (divisions / districts, companies with > 10 employees, cities > 100,000 inhabitants): BDT 50000.
+- Category B: Smaller collective members (companies with <= 10 employees, cities <= 100000 inhabitants, universities): BDT 10000.
+- Category C: Individual (private members): BDT 1000.
+- Category D: Students and pensioners (private members): BDT 500.
+
+If you are interested in joining the QGIS Bangladesh, please fill out the [registration form](https://forms.gle/yBkzvTTkTKiMz6Eg8) according to your details. You should also read the [statutes of the QGIS Bangladesh](https://drive.google.com/file/d/1InpeLKqgwbQyvxJxjWbjpO-YvZcA43X7/view?usp=sharing).
 
 ### Responsibilities
 
