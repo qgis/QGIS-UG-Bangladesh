@@ -30,7 +30,7 @@ Showcasing projects, implementations, and impact stories from the QGIS community
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Submit a Case Study
 
-Have a project to feature? Share details at [case-studies@example.com].
+Have a project to feature? Share details at [qgisbangladesh@gmail.com].
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
