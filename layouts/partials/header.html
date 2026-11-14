@@ -68,8 +68,8 @@
             {{ end }}
             "
         />
-        {{/* Determine cover image: og_image > thumbnail > default QGIS India logo */}}
-        {{ $coverImage := "/img/qgis_in.png" }}
+        {{/* Determine cover image: og_image > thumbnail > default QGIS Bangladesh logo */}}
+        {{ $coverImage := "/img/qgis_bd.png" }}
         {{ if .Params.og_image }}
             {{ $coverImage = .Params.og_image }}
         {{ else if .Params.thumbnail }}
@@ -186,18 +186,6 @@
             type="application/javascript"
             src="{{ .Site.Params.uniNavHeaderUrl }}"
         ></script>
-        {{/* Make the header logo bigger (the shared QGIS nav keeps it in a tiny box) */}}
-        <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            customElements.whenDefined("qg-top-nav").then(function () {
-                var nav = document.querySelector("qg-top-nav");
-                if (!nav || !nav.shadowRoot) return;
-                var style = document.createElement("style");
-                style.textContent = ".logo > div { height: 3.25rem; width: 6rem; }";
-                nav.shadowRoot.appendChild(style);
-            });
-        });
-        </script>
     </head>
 
     <body></body>
