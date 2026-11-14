@@ -65,7 +65,7 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 - **Email:** [qgisbangladesh@gmail.com](mail:qgisbangladesh@gmail.com)
 - **Mailing List:** [link to mailing list]
 - **Social Media:** [Facebook](https://www.facebook.com/qgisbangladesh/), [Linkedin](https://www.linkedin.com/company/qgisbangladesh)
-- **Chat:** [link to chat platform if available]
+- **Chat:** [WhatsApp](https://chat.whatsapp.com/DovSYaXm6Cf8yvMLYC3wZD)
 
 ## Affiliations
 
