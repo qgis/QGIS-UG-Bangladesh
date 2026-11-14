@@ -1,6 +1,6 @@
 ---
 type: "page"
-title: "QGIS [Country]"
+title: "QGIS Bangladesh"
 subtitle: "Connecting QGIS users in our community"
 draft: false
 heroSize: "is-medium"
