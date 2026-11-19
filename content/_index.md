@@ -4,7 +4,7 @@ title: "QGIS Bangladesh"
 subtitle: "Connecting QGIS users in our community"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/qgis_bd.png"
+heroLogo: "static/img/qgis_bd.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
