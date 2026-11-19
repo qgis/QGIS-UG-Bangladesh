@@ -29,7 +29,7 @@ Allow: /download/
 Allow: /support/
 
 # Specify the location of the sitemap
-Sitemap: https://usergroup.qgis.org/sitemap.xml
+Sitemap: https://bd.qgis.org/sitemap.xml
 
 # Block known bad bots and AI bots
 User-agent: AhrefsBot
